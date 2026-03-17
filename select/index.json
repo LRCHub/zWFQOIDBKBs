@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "The Search",
+  "base_artist": "NF",
+  "createdAt": "2026-03-17T11:36:54.568240Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Call Off the Search (Live in Berlin)",
+      "artist": "Katie Melua",
+      "has_synced": false,
+      "path": "select/01_Call_Off_the_Search_(Live_in_Berlin)_Katie_Melua.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Call Off the Search",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/02_Call_Off_the_Search_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Call Off the Search",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/03_Call_Off_the_Search_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Search Goes On",
+      "artist": "Lunatica",
+      "has_synced": false,
+      "path": "select/04_The_Search_Goes_On_Lunatica.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lunatica \u0000 The Search Goes On",
+      "artist": "Lunatica",
+      "has_synced": false,
+      "path": "select/05_Lunatica_\u0000_The_Search_Goes_On_Lunatica.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Search For Gold",
+      "artist": "Shannon Lay",
+      "has_synced": false,
+      "path": "select/06_The_Search_For_Gold_Shannon_Lay.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Search",
+      "artist": "NF",
+      "has_synced": true,
+      "path": "select/07_The_Search_NF.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Search Is Over",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/08_The_Search_Is_Over_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Search",
+      "artist": "Del Shannon",
+      "has_synced": false,
+      "path": "select/09_The_Search_Del_Shannon.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Search (Mono)",
+      "artist": "Del Shannon",
+      "has_synced": false,
+      "path": "select/10_The_Search_(Mono)_Del_Shannon.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Search (Stereo)",
+      "artist": "Del Shannon",
+      "has_synced": false,
+      "path": "select/11_The_Search_(Stereo)_Del_Shannon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Search",
+      "artist": "Cherry Poppin' Daddies",
+      "has_synced": true,
+      "path": "select/12_The_Search_Cherry_Poppin'_Daddies.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Search Is Over",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/13_The_Search_Is_Over_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hit of the Search Party",
+      "artist": "Every Time I Die",
+      "has_synced": true,
+      "path": "select/14_Hit_of_the_Search_Party_Every_Time_I_Die.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Call Off The Search",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/15_Call_Off_The_Search_Katie_Melua.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Search",
+      "artist": "NF",
+      "has_synced": false,
+      "path": "select/pl_01_The_Search_NF.txt"
+    }
+  ]
+}
