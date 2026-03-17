@@ -1,0 +1,111 @@
+# NF – The Search
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:36.97] Hey Nate, how's life?
+[00:38.79] I don't know, it's alright
+[00:40.60] I've been dealin' with some things like every human being
+[00:42.64] And really didn't sleep much last night
+[00:44.70] I'm sorry
+[00:45.77] That's fine
+[00:46.86] I just think I need a little me time
+[00:48.67] I just think I need a little free time
+[00:50.47] Little break from the shows and the bus rides
+[01:12.97] 
+[00:52.73] Last year, I had a breakdown
+[00:54.40] Thoughts tellin' me I'm lost, gettin' too loud
+[00:56.33] Had to see a therapist, then I found out
+[00:58.50] Somethin' funny's going on up in my house
+[01:00.32] Yeah, started thinkin' maybe I should move out
+[01:02.33] You know pack my cart, take a new route
+[01:04.34] Clean up my yard, get the noose out
+[01:06.34] Hang up my heart, let it air out (air out)
+[01:27.34] 
+[01:08.71] I've been searchin'
+[01:09.76] What does that mean, Nate? I've been learnin'
+[01:11.68] Grabbin' my keepsakes
+[01:12.66] Leavin' my burdens
+[01:13.69] Well I brought a few with me, I'm not perfect
+[01:15.67] Lookin' at the view like this concerns me
+[01:17.75] Pickin' up the cues right? I'm quite nervous
+[01:19.68] Hate it when I lose sight, life gets blurry
+[01:21.64] And things might hurt me
+[01:22.62] It's prolly gonna be a long journey but hey!
+[01:44.62] 
+[01:25.02] It's worth it though
+[01:26.08] Cold world out there, kids grab your coats
+[01:27.97] It's been a minute I know, now I'm back to roam
+[01:29.94] Looking for the antidote to crack the code
+[01:32.16] Pretty vivid, I admit it I'm in classic mode
+[01:33.95] Don't need pity given to me, but I can't condone
+[01:35.94] Talkin' down to me, I'ma have to crack your nose for crackin' jokes
+[01:38.70] I'm lookin' for the map to hope, you seen it?
+[02:01.20] 
+[01:40.76] Been makin' a whole lot of changes
+[01:42.31] Wrote a song about that you should play it
+[01:44.37] I get scared when I walk on these stages
+[01:46.13] I look at the crowd and see so many faces, yeah
+[01:48.68] That's when I start to get anxious
+[01:50.51] That's when my thoughts can be dangerous
+[01:52.54] That's when I put on my makeup
+[01:54.12] And drown in self-hatred, forget what I'm sayin' and-
+[02:20.62] 
+[01:57.31] Where'd the beat go?
+[01:58.96] Oh, ain't that somethin'
+[02:00.16] Drums came in, you ain't see that comin'
+[02:02.05] Hands on my head, can't tell me nothin'
+[02:04.01] Got a taste of the fame, had to pump my stomach
+[02:06.27] Throw it back up like I don't want it
+[02:08.52] Wipe my face clean off my vomit
+[02:10.29] OCD tryna push my buttons
+[02:12.33] I said don't touch it, now y'all done it
+[02:32.33] 
+[02:14.32] I can be critical, never typical
+[02:15.87] Intricate with every syllable, I'm a criminal
+[02:17.89] Intimate but never political, pretty visual
+[02:19.71] Even if you hate it, I'll make you feel like you're in it though
+[02:21.81] You call me what you wanna but never call me forgettable
+[02:23.52] Leave you deep in thought, I could never swim in the kiddy pool
+[02:25.63] Way that I be thinkin' is cinematic, it's beautiful
+[02:27.60] Man, I don't know if I'm makin' movies or music videos (videos)
+[02:59.10] 
+[02:30.89] Yeah, the sales can rise
+[02:31.96] Doesn't mean much though when your health declines
+[02:33.97] See we've all got somethin' that we've trapped inside
+[02:35.84] That we try to suffocate, you know hoping it dies
+[02:38.11] Try to hold it underwater, but it always survives
+[02:39.97] Then it comes up out of nowhere like an evil surprise
+[02:41.91] Then it hovers over you to tell you millions of lies
+[02:43.92] You don't relate to that, must not be as crazy I am
+[03:09.42] 
+[02:46.04] The point I'm makin' is the mind is a powerful place
+[02:47.84] And what you feed it can affect you in a powerful way
+[02:49.91] It's pretty cool, right? Yeah, but it's not always safe
+[02:52.15] Just hang with me, this will only take a moment, okay?
+[03:19.15] 
+[02:53.98] Just think about it for a second if you look at your face
+[02:56.03] Every day when you get up and think you'll never be great
+[02:57.96] You'll never be great
+[02:58.95] Not because you're not but the hate
+[03:00.19] Will always find a way to cut you up and murder your faith (woo!)
+[03:32.69] 
+[03:02.22] I've been developin', take a look at the benefits
+[03:04.16] Nothin' to meddle with I could never be delicate
+[03:06.37] Am I even relevant? That depends how you measure it
+[03:08.05] Take a measurement, then bag it up and give me the evidence
+[03:10.26] Pretty evident, dependable, can never be tentative
+[03:12.10] I'm a gentleman, depending on if I think you're genuine
+[03:13.97] Pretty elegant but not afraid to tell you to get a grip
+[03:16.13] Proper etiquette, I keep it to myself when I celebrate, ah
+[03:45.13] 
+[03:18.60] It's that time again
+[03:19.97] Better grab your balloons and invite your friends
+[03:21.95] Seatbelts back on, yeah, strap 'em in
+[03:23.92] Look at me, everybody I'm smilin' big
+[03:25.80] On a road right now that I can't predict
+[03:27.85] Tell me, "Tone that down", but I can't resist
+[03:29.91] Y'all know that sound, better raise your fist
+[03:31.97] The search begins
+[03:32.71] I'm back, so enjoy the trip, huh
+```
